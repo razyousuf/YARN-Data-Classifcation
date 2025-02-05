@@ -1,0 +1,601 @@
+razyousufi350@gmail.com@LinuxMachine:~/yarnproject/nhsout$ cat part-r-00000 
+---------------------------------------------------------------
+1573094826 (1) matched. The details are listed as follows:
+        NHS_Number: 1573094826
+Name: Hannah Brown
+Age: 38
+Gender: Female
+Admission_Date: April 10
+Year: 2026
+Record_Number: 369258147
+Symptoms: Hypertension, Type 2 Diabetes Mellitus, Hyperlipidemia
+Illness_History: Chest pain and palpitations
+Chief_Complaint: Experiencing chest pain and palpitations. Denies dyspnea or diaphoresis.
+Physical_Examination: Blood Pressure: 140/90 mmHg, Pulse Rate: 80 bpm, EKG shows sinus rhythm.
+Assessment_Plan: 1. Administer nitroglycerin and aspirin. 2. Initiate beta-blockers for rate control. 3. Monitor for signs of cardiac ischemia. 4. Recommend lifestyle modifications for hypertension and diabetes management.
+Region: London
+---------------------------------------------------------------
+1739458206 (1) matched. The details are listed as follows:
+        NHS_Number: 1739458206
+Name: Emma Garcia
+Age: 30
+Gender: Female
+Admission_Date: April 20
+Year: 2025
+Record_Number: 582964173
+Symptoms: Type 1 Diabetes Mellitus, Depression, Anxiety
+Illness_History: Hypoglycemia and mood swings
+Chief_Complaint: Experiencing frequent episodes of hypoglycemia associated with mood swings and irritability. Denies suicidal ideation or changes in appetite.
+Physical_Examination: Blood Glucose: 50 mg/dL, Vital signs stable.
+Assessment_Plan: 1. Educate on hypoglycemia management. 2. Adjust insulin therapy regimen. 3. Start selective serotonin reuptake inhibitor (SSRI) therapy. 4. Recommend psychotherapy and stress management techniques.
+Region: South_East
+---------------------------------------------------------------
+2068457913 (1) matched. The details are listed as follows:
+        NHS_Number: 2068457913
+Name: Samantha White
+Age: 32
+Gender: Female
+Admission_Date: September 10
+Year: 2025
+Record_Number: 321479586
+Symptoms: Asthma, Allergic Rhinitis, Anxiety
+Illness_History: Shortness of breath and wheezing
+Chief_Complaint: Presenting with acute exacerbation of asthma characterized by shortness of breath and wheezing. Denies fever or chest pain.
+Physical_Examination: Respiratory Rate: 26 bpm, Wheezing auscultated bilaterally. Oxygen saturation: 92% on room air.
+Assessment_Plan: 1. Administer inhaled short-acting beta agonists and systemic corticosteroids. 2. Consider nebulized bronchodilators for severe exacerbation. 3. Educate on asthma action plan and trigger avoidance. 4. Schedule follow-up to assess response to treatment and adjust therapy as needed.
+Region: South_East
+---------------------------------------------------------------
+2186439570 (1) matched. The details are listed as follows:
+        NHS_Number: 2186439570
+Name: Grace Garcia
+Age: 30
+Gender: Female
+Admission_Date: May 5
+Year: 2026
+Record_Number: 582964173
+Symptoms: Anxiety, Depression, Migraine
+Illness_History: Mood swings and headache
+Chief_Complaint: Complaining of mood swings and frequent headaches. Denies visual disturbances or focal neurological deficits.
+Physical_Examination: Vital signs stable. Neurological examination unremarkable.
+Assessment_Plan: 1. Initiate selective serotonin reuptake inhibitor (SSRI) therapy for anxiety and depression. 2. Prescribe triptans for acute migraine relief. 3. Recommend stress management techniques. 4. Schedule regular follow-up for therapy evaluation.
+Region: Midlands
+---------------------------------------------------------------
+2670943185 (1) matched. The details are listed as follows:
+        NHS_Number: 2670943185
+Name: Laura Miller
+Age: 35
+Gender: Female
+Admission_Date: December 30
+Year: 2025
+Record_Number: 109876543
+Symptoms: Asthma, Allergic Rhinitis, Anxiety
+Illness_History: Shortness of breath and wheezing
+Chief_Complaint: Presenting with acute exacerbation of asthma characterized by shortness of breath and audible wheezing. Denies fever or chest pain.
+Physical_Examination: Respiratory Rate: 28 bpm, Audible wheezing on auscultation. Oxygen saturation: 92% on room air.
+Assessment_Plan: 1. Administer inhaled short-acting beta agonists and systemic corticosteroids. 2. Consider nebulized bronchodilators for severe exacerbation. 3. Educate on asthma action plan and trigger avoidance. 4. Schedule follow-up to assess response to treatment and adjust therapy as needed.
+Region: South_East
+---------------------------------------------------------------
+2951387640 (1) matched. The details are listed as follows:
+        NHS_Number: 2951387640
+Name: Steven Wilson
+Age: 70
+Gender: Male
+Admission_Date: March 5
+Year: 2025
+Record_Number: 876543210
+Symptoms: Hypertension, Type 2 Diabetes Mellitus, Coronary Artery Disease
+Illness_History: Chest pain and diaphoresis
+Chief_Complaint: Complaining of severe retrosternal chest pain radiating to the left arm, associated with diaphoresis. Denies dyspnea or nausea.
+Physical_Examination: Blood Pressure: 180/110 mmHg, EKG shows ST-segment elevation in leads V2-V6.
+Assessment_Plan: 1. Administer aspirin and nitroglycerin. 2. Order emergent cardiac catheterization. 3. Consult cardiology for acute coronary syndrome management. 4. Monitor for signs of heart failure and arrhythmias.
+Region: North_East_and_Yorkshire
+---------------------------------------------------------------
+2986430715 (1) matched. The details are listed as follows:
+        NHS_Number: 2986430715
+Name: Robert Martinez
+Age: 60
+Gender: Male
+Admission_Date: January 7
+Year: 2025
+Record_Number: 543210987
+Symptoms: Atrial Fibrillation, Hypertension, Type 2 Diabetes Mellitus
+Illness_History: Palpitations and dizziness
+Chief_Complaint: Experiencing episodes of rapid irregular heartbeat associated with dizziness and chest discomfort. Denies syncope or shortness of breath at rest.
+Physical_Examination: Irregularly irregular pulse, Blood Pressure: 160/95 mmHg, EKG shows atrial fibrillation with rapid ventricular response.
+Assessment_Plan: 1. Initiate anticoagulation therapy with warfarin or direct oral anticoagulants. 2. Prescribe rate or rhythm control medications. 3. Order echocardiogram to assess cardiac function. 4. Educate on stroke prevention strategies and lifestyle modifications.
+Region: London
+---------------------------------------------------------------
+3871452096 (1) matched. The details are listed as follows:
+        NHS_Number: 3871452096
+Name: Julie Moore
+Age: 55
+Gender: Female
+Admission_Date: June 30
+Year: 2025
+Record_Number: 987654321
+Symptoms: Osteoarthritis, Hypothyroidism, Depression
+Illness_History: Joint pain and fatigue
+Chief_Complaint: Complaining of persistent joint pain, particularly in the knees and hands. Also reports fatigue and low mood.
+Physical_Examination: Limited range of motion in affected joints. Thyroid gland not palpable. No signs of synovitis or effusion.
+Assessment_Plan: 1. Prescribe nonsteroidal anti-inflammatory drugs (NSAIDs) for pain relief. 2. Initiate levothyroxine for hypothyroidism. 3. Start selective serotonin reuptake inhibitor (SSRI) therapy for depression. 4. Refer to physical therapy for joint strengthening exercises.
+Region: South_West
+---------------------------------------------------------------
+3962187405 (1) matched. The details are listed as follows:
+        NHS_Number: 3962187405
+Name: Sarah Brown
+Age: 40
+Gender: Female
+Admission_Date: October 17
+Year: 2024
+Record_Number: 654987321
+Symptoms: Rheumatoid Arthritis, Hypothyroidism, Depression
+Illness_History: Joint pain and stiffness
+Chief_Complaint: Complaining of persistent joint pain and morning stiffness lasting more than an hour. Also reports low mood and fatigue.
+Physical_Examination: Limited range of motion in multiple joints. Tender and swollen MCP and PIP joints bilaterally. Thyroid gland not palpable.
+Assessment_Plan: 1. Prescribe disease-modifying antirheumatic drugs (DMARDs) for rheumatoid arthritis. 2. Initiate levothyroxine for hypothyroidism. 3. Refer to rheumatology for further evaluation and management. 4. Start antidepressant therapy for depression.
+Region: South_East
+---------------------------------------------------------------
+4259863017 (1) matched. The details are listed as follows:
+        NHS_Number: 4259863017
+Name: Rachel Smith
+Age: 47
+Gender: Female
+Admission_Date: May 10
+Year: 2025
+Record_Number: 674129583
+Symptoms: Hypertension, Osteoarthritis, Depression
+Illness_History: Joint pain and low mood
+Chief_Complaint: Complaining of persistent joint pain and low mood. Denies fever or weight changes.
+Physical_Examination: Limited range of motion in affected joints. Tender and swollen MCP and PIP joints bilaterally.
+Assessment_Plan: 1. Prescribe nonsteroidal anti-inflammatory drugs (NSAIDs) for pain relief. 2. Start selective serotonin reuptake inhibitor (SSRI) therapy. 3. Refer to rheumatology for joint evaluation. 4. Recommend stress-reduction techniques and regular exercise.
+Region: North_West
+---------------------------------------------------------------
+4851039726 (1) matched. The details are listed as follows:
+        NHS_Number: 4851039726
+Name: Christopher Lee
+Age: 65
+Gender: Male
+Admission_Date: September 3
+Year: 2024
+Record_Number: 321654987
+Symptoms: Type 2 Diabetes Mellitus, Hypertension, Osteoarthritis
+Illness_History: Diabetic foot ulcer
+Chief_Complaint: Presenting with a non-healing ulcer on the left foot. Denies fever or chills. Reports occasional mild pain at the site.
+Physical_Examination: Blood Pressure: 150/95 mmHg, Blood glucose: 210 mg/dL, Wound inspection reveals necrotic tissue with signs of infection.
+Assessment_Plan: 1. Initiate broad-spectrum antibiotics. 2. Consult podiatry for wound debridement and offloading. 3. Optimize glycemic control with insulin therapy. 4. Educate on proper foot care and daily wound dressing.
+Region: North_West
+---------------------------------------------------------------
+4862759013 (1) matched. The details are listed as follows:
+        NHS_Number: 4862759013
+Name: Natalie Martin
+Age: 50
+Gender: Female
+Admission_Date: January 15
+Year: 2026
+Record_Number: 654321987
+Symptoms: Hypothyroidism, Depression, Fibromyalgia
+Illness_History: Fatigue and joint pain
+Chief_Complaint: Complaining of persistent fatigue and generalized body pain. Denies fever or weight changes.
+Physical_Examination: Thyroid gland not palpable. Tender points noted in multiple areas. No signs of synovitis or effusion.
+Assessment_Plan: 1. Initiate levothyroxine for hypothyroidism. 2. Start selective serotonin reuptake inhibitor (SSRI) therapy. 3. Refer to pain management for fibromyalgia treatment. 4. Recommend stress-reduction techniques and regular exercise.
+Region: North_West
+---------------------------------------------------------------
+5086179342 (1) matched. The details are listed as follows:
+        NHS_Number: 5086179342
+Name: Evelyn Johnson
+Age: 35
+Gender: Female
+Admission_Date: July 20
+Year: 2026
+Record_Number: 895231467
+Symptoms: Type 1 Diabetes Mellitus, Depression, Anxiety
+Illness_History: Hypoglycemia and mood swings
+Chief_Complaint: Experiencing frequent episodes of hypoglycemia associated with mood swings and irritability. Denies suicidal ideation or changes in appetite.
+Physical_Examination: Blood Glucose: 50 mg/dL, Vital signs stable.
+Assessment_Plan: 1. Educate on hypoglycemia management. 2. Adjust insulin therapy regimen. 3. Start selective serotonin reuptake inhibitor (SSRI) therapy. 4. Recommend psychotherapy and stress management techniques.
+Region: North_East_and_Yorkshire
+---------------------------------------------------------------
+5219047368 (1) matched. The details are listed as follows:
+        NHS_Number: 5219047368
+Name: Matthew Young
+Age: 30
+Gender: Male
+Admission_Date: September 5
+Year: 2025
+Record_Number: 765432109
+Symptoms: Type 1 Diabetes Mellitus, Depression, Anxiety
+Illness_History: Hypoglycemia and low mood
+Chief_Complaint: Experiencing frequent episodes of hypoglycemia associated with low mood and irritability. Denies suicidal ideation or changes in appetite.
+Physical_Examination: Blood Glucose: 60 mg/dL, Vital signs stable.
+Assessment_Plan: 1. Educate on hypoglycemia management including glucose monitoring and carbohydrate intake. 2. Initiate insulin therapy adjustment. 3. Start selective serotonin reuptake inhibitor (SSRI) therapy for depression. 4. Recommend psychotherapy and stress management techniques.
+Region: Midlands
+---------------------------------------------------------------
+5291864307 (1) matched. The details are listed as follows:
+        NHS_Number: 5291864307
+Name: Jane Doe
+Age: 35
+Gender: Female
+Admission_Date: June 5
+Year: 2024
+Record_Number: 987654321
+Symptoms: Asthma, Allergic Rhinitis, Hypothyroidism
+Illness_History: Shortness of breath and wheezing
+Chief_Complaint: Experiencing shortness of breath and wheezing, worsened with exposure to allergens. Denies chest pain, palpitations, or cough.
+Physical_Examination: Respiratory Rate: 20 bpm, Oxygen Saturation: 95%, Lung examination reveals bilateral expiratory wheezes.
+Assessment_Plan: 1. Prescribe inhaled corticosteroids and short-acting beta agonists for asthma management. 2. Recommend avoidance of known allergens. 3. Educate on proper inhaler technique. 4. Schedule follow-up to assess treatment response and adjust therapy as needed.
+Region: London
+---------------------------------------------------------------
+5723986104 (1) matched. The details are listed as follows:
+        NHS_Number: 5723986104
+Name: Thomas Johnson
+Age: 55
+Gender: Male
+Admission_Date: October 25
+Year: 2025
+Record_Number: 874596213
+Symptoms: Hypertension, Type 2 Diabetes Mellitus, Chronic Kidney Disease
+Illness_History: Fatigue and pedal edema
+Chief_Complaint: Complaining of persistent fatigue and swelling in both lower extremities. Denies chest pain or dyspnea.
+Physical_Examination: Blood Pressure: 150/90 mmHg, Peripheral edema in lower extremities up to the ankles.
+Assessment_Plan: 1. Order comprehensive metabolic panel and urinalysis. 2. Adjust antihypertensive medication regimen. 3. Educate on dietary restrictions and fluid management. 4. Refer to nephrology for further evaluation and management of chronic kidney disease.
+Region: East_of_England
+---------------------------------------------------------------
+5839142076 (1) matched. The details are listed as follows:
+        NHS_Number: 5839142076
+Name: Mark Johnson
+Age: 42
+Gender: Male
+Admission_Date: January 15
+Year: 2025
+Record_Number: 135792468
+Symptoms: Hypertension, Type 2 Diabetes Mellitus, Asthma
+Illness_History: Shortness of breath and chest pain
+Chief_Complaint: Experiencing shortness of breath and chest pain. Denies fever or cough.
+Physical_Examination: Blood Pressure: 140/90 mmHg, Respiratory Rate: 24 bpm, Wheezing auscultated bilaterally.
+Assessment_Plan: 1. Administer nitroglycerin and aspirin. 2. Initiate bronchodilators for asthma. 3. Monitor for signs of respiratory distress. 4. Recommend lifestyle modifications for hypertension and diabetes management.
+Region: North_East_and_Yorkshire
+---------------------------------------------------------------
+6134290857 (1) matched. The details are listed as follows:
+        NHS_Number: 6134290857
+Name: Amanda Thompson
+Age: 25
+Gender: Female
+Admission_Date: April 10
+Year: 2025
+Record_Number: 543210987
+Symptoms: Major Depressive Disorder, Anxiety, Migraine
+Illness_History: Depression and frequent headaches
+Chief_Complaint: Reports persistent low mood, anhedonia, and feelings of worthlessness. Also complains of frequent migraines with aura.
+Physical_Examination: Vital signs stable. Neurological examination unremarkable.
+Assessment_Plan: 1. Initiate selective serotonin reuptake inhibitor (SSRI) therapy for depression. 2. Prescribe triptans for acute migraine relief. 3. Recommend psychotherapy and stress management techniques. 4. Schedule regular follow-up appointments to monitor treatment response and adjust therapy as needed.
+Region: North_West
+---------------------------------------------------------------
+6149705283 (1) matched. The details are listed as follows:
+        NHS_Number: 6149705283
+Name: Michael Johnson
+Age: 50
+Gender: Male
+Admission_Date: July 20
+Year: 2024
+Record_Number: 456789123
+Symptoms: Coronary Artery Disease, Hypertension, Dyslipidemia
+Illness_History: Chest pain and shortness of breath
+Chief_Complaint: Experiencing chest pain radiating to the left arm and associated shortness of breath. Denies nausea, vomiting, or diaphoresis.
+Physical_Examination: Blood Pressure: 160/100 mmHg, Pulse Rate: 90 bpm, EKG reveals ST-segment depression in leads V1-V3.
+Assessment_Plan: 1. Administer sublingual nitroglycerin. 2. Order troponin levels and cardiac enzymes. 3. Perform echocardiogram to assess cardiac function. 4. Consult cardiology for further management.
+Region: Midlands
+---------------------------------------------------------------
+6301578249 (1) matched. The details are listed as follows:
+        NHS_Number: 6301578249
+Name: Logan Lee
+Age: 45
+Gender: Male
+Admission_Date: February 5
+Year: 2026
+Record_Number: 135792468
+Symptoms: Chronic Kidney Disease, Hypertension, Type 2 Diabetes Mellitus
+Illness_History: Fatigue and pedal edema
+Chief_Complaint: Complaining of persistent fatigue and swelling in both lower extremities. Denies chest pain or dyspnea.
+Physical_Examination: Blood Pressure: 160/95 mmHg, Peripheral edema in lower extremities up to the ankles.
+Assessment_Plan: 1. Order comprehensive metabolic panel and urinalysis. 2. Adjust antihypertensive medication regimen. 3. Educate on dietary restrictions and fluid management. 4. Refer to nephrology for further evaluation and management of chronic kidney disease.
+Region: South_West
+---------------------------------------------------------------
+6482739051 (1) matched. The details are listed as follows:
+        NHS_Number: 6482739051
+Name: Susan Clark
+Age: 48
+Gender: Female
+Admission_Date: August 12
+Year: 2025
+Record_Number: 321098765
+Symptoms: Asthma, Allergic Rhinitis, Anxiety
+Illness_History: Shortness of breath and wheezing
+Chief_Complaint: Presenting with acute exacerbation of asthma characterized by shortness of breath and audible wheezing. Denies fever or chest pain.
+Physical_Examination: Respiratory Rate: 30 bpm, Audible wheezing on auscultation. Oxygen saturation: 90% on room air.
+Assessment_Plan: 1. Administer inhaled short-acting beta agonists and systemic corticosteroids. 2. Consider nebulized bronchodilators for severe exacerbation. 3. Educate on asthma action plan and trigger avoidance. 4. Schedule follow-up to assess response to treatment and adjust therapy as needed.
+Region: London
+---------------------------------------------------------------
+6948213057 (1) matched. The details are listed as follows:
+        NHS_Number: 6948213057
+Name: David Clark
+Age: 65
+Gender: Male
+Admission_Date: June 15
+Year: 2025
+Record_Number: 748596213
+Symptoms: Chronic Obstructive Pulmonary Disease (COPD), Hypertension, Type 2 Diabetes Mellitus
+Illness_History: Exacerbation of COPD
+Chief_Complaint: Presenting with increased dyspnea, productive cough, and wheezing. Denies fever or chest pain.
+Physical_Examination: Respiratory Rate: 28 bpm, Oxygen Saturation: 88% on room air, Bilateral wheezing and prolonged expiration.
+Assessment_Plan: 1. Administer oxygen therapy. 2. Prescribe systemic corticosteroids and bronchodilators. 3. Perform arterial blood gas analysis. 4. Consider non-invasive ventilation if respiratory distress worsens.
+Region: East_of_England
+---------------------------------------------------------------
+7309852164 (1) matched. The details are listed as follows:
+        NHS_Number: 7309852164
+Name: Emily White
+Age: 28
+Gender: Female
+Admission_Date: August 10
+Year: 2024
+Record_Number: 789123456
+Symptoms: Migraine, Depression, Fibromyalgia
+Illness_History: Chronic headaches and fatigue
+Chief_Complaint: Reports frequent migraines associated with photophobia and nausea. Also complains of persistent fatigue and generalized body pain.
+Physical_Examination: Vital signs stable. Neurological examination unremarkable.
+Assessment_Plan: 1. Prescribe triptans for acute migraine relief. 2. Initiate selective serotonin reuptake inhibitor (SSRI) for depression. 3. Refer to pain management for fibromyalgia treatment. 4. Recommend stress-reduction techniques and regular exercise.
+Region: North_East_and_Yorkshire
+---------------------------------------------------------------
+7312968405 (1) matched. The details are listed as follows:
+        NHS_Number: 7312968405
+Name: Owen White
+Age: 47
+Gender: Male
+Admission_Date: August 25
+Year: 2026
+Record_Number: 321479586
+Symptoms: Hypertension, Osteoarthritis, Depression
+Illness_History: Joint pain and low mood
+Chief_Complaint: Complaining of persistent joint pain and low mood. Denies fever or weight changes.
+Physical_Examination: Limited range of motion in affected joints. Tender and swollen MCP and PIP joints bilaterally.
+Assessment_Plan: 1. Prescribe nonsteroidal anti-inflammatory drugs (NSAIDs) for pain relief. 2. Start selective serotonin reuptake inhibitor (SSRI) therapy. 3. Refer to rheumatology for joint evaluation. 4. Recommend stress-reduction techniques and regular exercise.
+Region: North_West
+---------------------------------------------------------------
+7329408156 (1) matched. The details are listed as follows:
+        NHS_Number: 7329408156
+Name: Ethan Thompson
+Age: 35
+Gender: Male
+Admission_Date: December 20
+Year: 2025
+Record_Number: 987654321
+Symptoms: Type 2 Diabetes Mellitus, Hypertension, Dyslipidemia
+Illness_History: Foot ulcer and visual changes
+Chief_Complaint: Presenting with a non-healing foot ulcer and blurred vision in the left eye. Denies fever or chills. Reports occasional mild pain at the ulcer site.
+Physical_Examination: Blood Pressure: 150/90 mmHg, Blood glucose: 220 mg/dL, Wound inspection reveals signs of infection with surrounding erythema.
+Assessment_Plan: 1. Initiate broad-spectrum antibiotics. 2. Consult ophthalmology for diabetic retinopathy evaluation. 3. Optimize glycemic control with insulin therapy. 4. Educate on proper foot care and daily wound dressing.
+Region: South_East
+---------------------------------------------------------------
+7392185406 (1) matched. The details are listed as follows:
+        NHS_Number: 7392185406
+Name: Daniel Scott
+Age: 55
+Gender: Male
+Admission_Date: November 15
+Year: 2025
+Record_Number: 543210987
+Symptoms: Hypertension, Type 2 Diabetes Mellitus, Chronic Kidney Disease
+Illness_History: Fatigue and pedal edema
+Chief_Complaint: Complaining of persistent fatigue and swelling in both lower extremities. Denies chest pain or dyspnea.
+Physical_Examination: Blood Pressure: 150/90 mmHg, Peripheral edema in lower extremities up to the ankles.
+Assessment_Plan: 1. Order comprehensive metabolic panel and urinalysis. 2. Adjust antihypertensive medication regimen. 3. Educate on dietary restrictions and fluid management. 4. Refer to nephrology for further evaluation and management of chronic kidney disease.
+Region: North_West
+---------------------------------------------------------------
+7405862391 (1) matched. The details are listed as follows:
+        NHS_Number: 7405862391
+Name: Lisa Anderson
+Age: 35
+Gender: Female
+Admission_Date: February 20
+Year: 2025
+Record_Number: 210987654
+Symptoms: Asthma, Allergic Rhinitis, Anxiety
+Illness_History: Shortness of breath and chest tightness
+Chief_Complaint: Presenting with acute exacerbation of asthma characterized by shortness of breath and chest tightness. Denies fever or cough.
+Physical_Examination: Respiratory Rate: 28 bpm, Wheezing auscultated bilaterally. Oxygen saturation: 92% on room air.
+Assessment_Plan: 1. Administer inhaled short-acting beta agonists and systemic corticosteroids. 2. Consider nebulized bronchodilators for severe exacerbation. 3. Educate on asthma action plan and trigger avoidance. 4. Schedule follow-up to assess response to treatment and adjust therapy as needed.
+Region: Midlands
+---------------------------------------------------------------
+7529381640 (1) matched. The details are listed as follows:
+        NHS_Number: 7529381640
+Name: Richard Baker
+Age: 62
+Gender: Male
+Admission_Date: July 25
+Year: 2025
+Record_Number: 654321098
+Symptoms: Chronic Kidney Disease, Hypertension, Type 2 Diabetes Mellitus
+Illness_History: Fatigue and pedal edema
+Chief_Complaint: Complaining of persistent fatigue and swelling in both lower extremities. Denies chest pain or dyspnea.
+Physical_Examination: Blood Pressure: 160/95 mmHg, Peripheral edema in lower extremities up to the ankles.
+Assessment_Plan: 1. Order comprehensive metabolic panel and urinalysis. 2. Adjust antihypertensive medication regimen. 3. Educate on dietary restrictions and fluid management. 4. Refer to nephrology for further evaluation and management of chronic kidney disease.
+Region: East_of_England
+---------------------------------------------------------------
+7592341680 (1) matched. The details are listed as follows:
+        NHS_Number: 7592341680
+Name: Julia Martinez
+Age: 55
+Gender: Female
+Admission_Date: July 20
+Year: 2025
+Record_Number: 895231467
+Symptoms: Hypothyroidism, Depression, Fibromyalgia
+Illness_History: Fatigue and joint pain
+Chief_Complaint: Complaining of persistent fatigue and generalized body pain. Denies fever or weight changes.
+Physical_Examination: Thyroid gland not palpable. Tender points noted in multiple areas. No signs of synovitis or effusion.
+Assessment_Plan: 1. Initiate levothyroxine for hypothyroidism. 2. Start selective serotonin reuptake inhibitor (SSRI) therapy. 3. Refer to pain management for fibromyalgia treatment. 4. Recommend stress-reduction techniques and regular exercise.
+Region: South_West
+---------------------------------------------------------------
+8307569142 (1) matched. The details are listed as follows:
+        NHS_Number: 8307569142
+Name: Andrew Taylor
+Age: 48
+Gender: Male
+Admission_Date: August 5
+Year: 2025
+Record_Number: 962847513
+Symptoms: Atrial Fibrillation, Hypertension, Type 2 Diabetes Mellitus
+Illness_History: Palpitations and fatigue
+Chief_Complaint: Experiencing palpitations and fatigue. Denies syncope or shortness of breath at rest.
+Physical_Examination: Irregularly irregular pulse, Blood Pressure: 160/95 mmHg, EKG shows atrial fibrillation with rapid ventricular response.
+Assessment_Plan: 1. Initiate anticoagulation therapy. 2. Prescribe rate or rhythm control medications. 3. Order echocardiogram. 4. Educate on stroke prevention strategies and lifestyle modifications.
+Region: North_East_and_Yorkshire
+---------------------------------------------------------------
+8374926150 (1) matched. The details are listed as follows:
+        NHS_Number: 8374926150
+Name: John Smith
+Age: 45
+Gender: Male
+Admission_Date: April 15
+Year: 2024
+Record_Number: 123456789
+Symptoms: Hypertension, Type 2 Diabetes Mellitus, Hyperlipidemia
+Illness_History: Persistent headache and dizziness
+Chief_Complaint: Intermittent headaches mostly frontal, associated with dizziness and blurred vision. Symptoms aggravated with stress and relieved with rest. Denies any history of fever, nausea, vomiting, or visual disturbances.
+Physical_Examination: Blood Pressure: 148/92 mmHg, Pulse Rate: 78 bpm, Temperature: 98.6°F (36.9°C), BMI: 31 (Obese), General Appearance: Alert and oriented, obese male in no acute distress, Neurological Examination: Cranial nerves intact, no focal deficits noted. Reflexes normal.
+Assessment_Plan: 1. Monitor blood pressure closely. 2. Initiate lifestyle modifications including diet and exercise for weight reduction. 3. Prescribe antihypertensive medication. 4. Recommend regular follow-up appointments for blood pressure monitoring and adjustment of medication as needed.
+Region: East_of_England
+---------------------------------------------------------------
+8405297163 (1) matched. The details are listed as follows:
+        NHS_Number: 8405297163
+Name: James Wilson
+Age: 58
+Gender: Male
+Admission_Date: March 5
+Year: 2025
+Record_Number: 369258147
+Symptoms: Coronary Artery Disease, Hypertension, Hyperlipidemia
+Illness_History: Chest pain and palpitations
+Chief_Complaint: Experiencing chest pain and palpitations. Denies dyspnea or diaphoresis.
+Physical_Examination: Blood Pressure: 160/100 mmHg, EKG shows ST-segment depression in leads V1-V3.
+Assessment_Plan: 1. Administer sublingual nitroglycerin. 2. Order troponin levels and cardiac enzymes. 3. Perform echocardiogram. 4. Consult cardiology for further evaluation.
+Region: Midlands
+---------------------------------------------------------------
+8613425079 (1) matched. The details are listed as follows:
+        NHS_Number: 8613425079
+Name: David Taylor
+Age: 55
+Gender: Male
+Admission_Date: November 25
+Year: 2024
+Record_Number: 234567890
+Symptoms: Chronic Obstructive Pulmonary Disease (COPD), Hypertension, Type 2 Diabetes Mellitus
+Illness_History: Exacerbation of COPD
+Chief_Complaint: Presenting with increased dyspnea, productive cough, and wheezing. Denies fever or chest pain.
+Physical_Examination: Respiratory Rate: 24 bpm, Oxygen Saturation: 88% on room air, Bilateral wheezing and prolonged expiration.
+Assessment_Plan: 1. Administer oxygen therapy to maintain oxygen saturation above 90%. 2. Prescribe systemic corticosteroids and bronchodilators. 3. Perform arterial blood gas analysis. 4. Consider non-invasive ventilation if respiratory distress worsens.
+Region: South_West
+---------------------------------------------------------------
+8952137604 (1) matched. The details are listed as follows:
+        NHS_Number: 8952137604
+Name: Avery Wilson
+Age: 42
+Gender: Female
+Admission_Date: March 20
+Year: 2026
+Record_Number: 246813579
+Symptoms: Asthma, Allergic Rhinitis, Anxiety
+Illness_History: Shortness of breath and wheezing
+Chief_Complaint: Presenting with acute exacerbation of asthma characterized by shortness of breath and wheezing. Denies fever or chest pain.
+Physical_Examination: Respiratory Rate: 28 bpm, Wheezing auscultated bilaterally. Oxygen saturation: 92% on room air.
+Assessment_Plan: 1. Administer inhaled short-acting beta agonists and systemic corticosteroids. 2. Consider nebulized bronchodilators for severe exacerbation. 3. Educate on asthma action plan and trigger avoidance. 4. Schedule follow-up to assess response to treatment and adjust therapy as needed.
+Region: East_of_England
+---------------------------------------------------------------
+9240617538 (1) matched. The details are listed as follows:
+        NHS_Number: 9240617538
+Name: Kevin Garcia
+Age: 48
+Gender: Male
+Admission_Date: May 15
+Year: 2025
+Record_Number: 210987654
+Symptoms: Type 2 Diabetes Mellitus, Hypertension, Dyslipidemia
+Illness_History: Foot ulcer and visual changes
+Chief_Complaint: Presenting with a non-healing foot ulcer and blurred vision in the left eye. Denies fever or chills. Reports occasional mild pain at the ulcer site.
+Physical_Examination: Blood Pressure: 150/90 mmHg, Blood glucose: 220 mg/dL, Wound inspection reveals signs of infection with surrounding erythema.
+Assessment_Plan: 1. Initiate broad-spectrum antibiotics. 2. Consult ophthalmology for diabetic retinopathy evaluation. 3. Optimize glycemic control with insulin therapy. 4. Educate on proper foot care and daily wound dressing.
+Region: South_East
+---------------------------------------------------------------
+9316740258 (1) matched. The details are listed as follows:
+        NHS_Number: 9316740258
+Name: Anna Brown
+Age: 38
+Gender: Female
+Admission_Date: February 10
+Year: 2025
+Record_Number: 246813579
+Symptoms: Anxiety, Depression, Migraine
+Illness_History: Mood swings and headache
+Chief_Complaint: Complaining of mood swings and frequent headaches. Denies visual disturbances or focal neurological deficits.
+Physical_Examination: Vital signs stable. Neurological examination unremarkable.
+Assessment_Plan: 1. Initiate selective serotonin reuptake inhibitor (SSRI) therapy for anxiety and depression. 2. Prescribe triptans for acute migraine relief. 3. Recommend stress management techniques. 4. Schedule regular follow-up for therapy evaluation.
+Region: South_West
+---------------------------------------------------------------
+9361584072 (1) matched. The details are listed as follows:
+        NHS_Number: 9361584072
+Name: Jennifer King
+Age: 40
+Gender: Female
+Admission_Date: October 20
+Year: 2025
+Record_Number: 098765432
+Symptoms: Hypothyroidism, Depression, Fibromyalgia
+Illness_History: Fatigue and joint pain
+Chief_Complaint: Complaining of persistent fatigue and generalized body pain. Denies fever or weight changes.
+Physical_Examination: Thyroid gland not palpable. Tender points noted in multiple areas. No signs of synovitis or effusion.
+Assessment_Plan: 1. Initiate levothyroxine for hypothyroidism. 2. Start selective serotonin reuptake inhibitor (SSRI) therapy for depression. 3. Refer to pain management for fibromyalgia treatment. 4. Recommend stress-reduction techniques and regular exercise.
+Region: North_East_and_Yorkshire
+---------------------------------------------------------------
+9425180736 (1) matched. The details are listed as follows:
+        NHS_Number: 9425180736
+Name: Isaac Taylor
+Age: 58
+Gender: Male
+Admission_Date: June 15
+Year: 2026
+Record_Number: 748596213
+Symptoms: Coronary Artery Disease, Hypertension, Hyperlipidemia
+Illness_History: Chest pain and palpitations
+Chief_Complaint: Experiencing chest pain and palpitations. Denies dyspnea or diaphoresis.
+Physical_Examination: Blood Pressure: 160/100 mmHg, Pulse Rate: 90 bpm, EKG shows ST-segment depression in leads V1-V3.
+Assessment_Plan: 1. Administer sublingual nitroglycerin. 2. Order troponin levels and cardiac enzymes. 3. Perform echocardiogram. 4. Consult cardiology for further evaluation.
+Region: South_East
+---------------------------------------------------------------
+9648012375 (1) matched. The details are listed as follows:
+        NHS_Number: 9648012375
+Name: Olivia Garcia
+Age: 28
+Gender: Female
+Admission_Date: November 10
+Year: 2025
+Record_Number: 123459876
+Symptoms: Major Depressive Disorder, Anxiety, Migraine
+Illness_History: Depression and frequent headaches
+Chief_Complaint: Reports persistent low mood, anhedonia, and feelings of worthlessness. Also complains of frequent migraines with aura.
+Physical_Examination: Vital signs stable. Neurological examination unremarkable.
+Assessment_Plan: 1. Initiate selective serotonin reuptake inhibitor (SSRI) therapy for depression. 2. Prescribe triptans for acute migraine relief. 3. Recommend psychotherapy and stress management techniques. 4. Schedule regular follow-up appointments to monitor treatment response and adjust therapy as needed.
+Region: North_East_and_Yorkshire
+---------------------------------------------------------------
+9703581264 (1) matched. The details are listed as follows:
+        NHS_Number: 9703581264
+Name: Michelle Garcia
+Age: 50
+Gender: Female
+Admission_Date: December 12
+Year: 2024
+Record_Number: 876543210
+Symptoms: Hypertension, Dyslipidemia, Depression
+Illness_History: Fatigue and insomnia
+Chief_Complaint: Complaining of persistent fatigue and difficulty falling asleep. Denies suicidal ideation or changes in appetite.
+Physical_Examination: Blood Pressure: 140/85 mmHg, BMI: 29 (Overweight), Thyroid gland not palpable.
+Assessment_Plan: 1. Screen for thyroid dysfunction with TSH levels. 2. Recommend lifestyle modifications including regular exercise and stress reduction techniques. 3. Start selective serotonin reuptake inhibitor (SSRI) for depression. 4. Refer to sleep medicine for further evaluation and management.
+Region: East_of_England

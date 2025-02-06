@@ -1,4 +1,4 @@
-razyousufi350@gmail.com@LinuxMachine:~/yarnproject/symptomsout$ cat part-r-00000 
+LinuxMachine:~/yarnproject/symptomsout$ cat part-r-00000 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 Allergic Rhinitis (6) matched. The details are listed as follows:

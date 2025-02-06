@@ -1,4 +1,4 @@
-razyousufi350@gmail.com@LinuxMachine:~/yarnproject/regionout$ cat part-r-00000 
+LinuxMachine:~/yarnproject/regionout$ cat part-r-00000 
 ---------------------------------------------------------------
 East_of_England (6) matched. The details are listed as follows:
         NHS_Number: 5723986104

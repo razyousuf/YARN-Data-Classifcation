@@ -1,4 +1,4 @@
-razyousufi350@gmail.com@LinuxMachine:~/yarnproject/nhsout$ cat part-r-00000 
+LinuxMachine:~/yarnproject/nhsout$ cat part-r-00000 
 ---------------------------------------------------------------
 1573094826 (1) matched. The details are listed as follows:
         NHS_Number: 1573094826

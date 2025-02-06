@@ -50,8 +50,8 @@ East_of_England (6) matched. The details are listed as follows:
     Age: 55
     Symptoms: Hypertension, Type 2 Diabetes Mellitus, Chronic Kidney Disease
     ...
-![Output](./images/3_region_out.jpg)
 ```
+![Output](./images/5_region_out.jpg)
 
 ## Features
 - **Distributed Processing**: Uses YARN and MapReduce for efficient large-scale data processing.

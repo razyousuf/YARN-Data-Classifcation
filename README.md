@@ -12,23 +12,23 @@ Ensure you have the following installed:
 ## Compilation and Execution
 ### 1. Compile the Java Code
 ```sh
-hadoop com.sun.tools.javac.Main MedicalRecordsProcessor.java
-jar cf MedicalRecordsProcessor.jar MedicalRecordsProcessor*.class
+hadoop com.sun.tools.javac.Main DatasetClassifier.java
+jar cf DatasetClassifier.jar DatasetClassifier*.class
 ```
 
 ### 2. Upload Data to HDFS
 Before running the job, upload your dataset to HDFS:
 ```sh
-hdfs dfs -mkdir -p /user/hadoop/medical_data
-hdfs dfs -put local_medical_records.txt /user/hadoop/medical_data/
+hdfs dfs -mkdir -p /user/hadoop/yarnproject
+hdfs dfs -put MedicalFiles.csv /user/hadoop/yarnproject/
 ```
 
 ### 3. Run the YARN MapReduce Job
 Execute the job using YARN:
 ```sh
-yarn jar MedicalRecordsProcessor.jar MedicalRecordsProcessor /user/hadoop/medical_data/local_medical_records.txt /user/hadoop/output/
+yarn jar DatasetClassifier.jar DatasetClassifier [output dir] [classification target]
 ```
-
+![Output NHS](./images/3_run_nhs.jpg)
 ### 4. Retrieve the Results
 After execution, fetch the output:
 ```sh
